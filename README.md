@@ -1,0 +1,2 @@
+# gitPracticeProject
+Practicing with git
